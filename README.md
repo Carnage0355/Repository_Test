@@ -65,8 +65,3 @@ Etap: konfiguracja środowiska i repozytorium.
 
 
 * Projekt jest na etapie przygotowania środowiska.
-
-
-
-
-
