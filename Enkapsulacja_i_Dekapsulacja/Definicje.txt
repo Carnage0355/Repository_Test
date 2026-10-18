@@ -1,0 +1,2 @@
+Enkapsulacja (kapsu³kowanie) - to proces przygotowania (pakowania) danych do wys³ania przez sieæ komputerow¹. 
+Dekapsulacja - to proces odpakowania odebranych z sieci komputerowej danych. 
