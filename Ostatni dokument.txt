@@ -1,0 +1,1 @@
+Zakończeniem projektu będzie wysłanie plików zadania na platformę Moodle.
